@@ -192,7 +192,7 @@ async def send_doc(client, message):
             if buy_date:
                 pre_check = check_expi(buy_date)
                 if pre_check == False:
-                    uploadlimit(message.from_user.id, 1288490188)
+                    uploadlimit(message.from_user.id, 5368709120)
                     usertype(message.from_user.id, "Free")
 
             filesize = humanize.naturalsize(file.file_size)
