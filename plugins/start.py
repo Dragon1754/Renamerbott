@@ -180,7 +180,7 @@ async def send_doc(client, message):
                     total_rename(int(botid), prrename)
                     total_size(int(botid), prsize, file.file_size)
                 else:
-                    uploadlimit(message.from_user.id, 1288490188)
+                    uploadlimit(message.from_user.id, 5368709120)
                     usertype(message.from_user.id, "Free")
 
                     await message.reply_text(f'Your Plan Expired On {buy_date}', quote=True)
