@@ -17,7 +17,7 @@ import os
 
 CHANNEL = os.environ.get('CHANNEL', "1002058849354")
 STRING = os.environ.get("STRING", "BQAOnoCSRZ0VHwoIKSly5ApJLw_Ll0glHTg3dbTq9gWCmy74FAkfREpEhnC9WzhyNuTdYvgYvONlvrjjs1JThqJSozJnaIb9vO0MBpUxKX0_oaWaAiBW_aQOSY8lX_DjsOJ8j-ju0Ath9oCin6-_YMu6oXwT4oEhfttJt13yFxfgp73dGncxxtYF7ufqKgrW7LxHEVfy_buLGXQrNlvoeb-iHF3urgFrK8KBvmdTuq5sJX2yXA2zxaRDFO8qDthpr0N5Wm4S9AblltnvR3uOJGrE97SUnJiS6wXJOTuiWVnh-AIdNJlv17RDaTXQ_zu1g4ow4b8bW2trE4X8TB7x0pQFAAAAAXxXym8A")
-ADMIN = int(os.environ.get("ADMIN", 6899056935,6381095535)
+ADMIN = int(os.environ.get("ADMIN", 6381095535)
 bot_username = os.environ.get("BOT_USERNAME","AllFileReanamerBot")
 log_channel = int(os.environ.get("LOG_CHANNEL", "1002066320099"))
 token = os.environ.get('TOKEN', '6349547714:AAGhnKK1Yv_h6lU6IscmJGhKo-xoCvnp69I')
